@@ -1,0 +1,23 @@
+{
+  "name": "rgeo",
+  "version": "1.0.0",
+  "description": "rjesenja vjezbi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ababic2/RGEO.git"
+  },
+  "author": "ababic2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ababic2/RGEO/issues"
+  },
+  "homepage": "https://github.com/ababic2/RGEO#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.18.3"
+  }
+}
