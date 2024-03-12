@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Posluživanje HTML datoteke na ruti /drawVertexOnClick
 app.get('/draw', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'drawVertexOnClick.html'));
+    res.sendFile(path.join(__dirname, 'public', 'drawOnCanvas.html'));
 });
 
 // Slušanje zahtjeva na odabranom portu
