@@ -1,7 +1,7 @@
 # RGEO
 Rjesenja zadataka s vjezbi na predmetu RGEO
 ## Vjezba 1
-Video rezultata vjezbe 1 nije snimljen. 
+Video rezultata vjezbe 1 nije snimljen. Postavljene su slike rezultata unutar /Vjezbe 1/images
 ## Vjezba 2
 Video rezultata vjezbe 2 na linku: https://drive.google.com/file/d/1FZbyRnLrWrB546Jz4unXiBzj6ID9uY5-/view?usp=sharing
 ## Vjezba 3
