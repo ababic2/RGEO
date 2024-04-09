@@ -6,4 +6,5 @@ Video rezultata vjezbe 1 nije snimljen. Postavljene su slike rezultata unutar /V
 Video rezultata vjezbe 2 na linku: https://drive.google.com/file/d/1FZbyRnLrWrB546Jz4unXiBzj6ID9uY5-/view?usp=sharing
 ## Vjezba 3
 Video rezultata vjezbe 3 na linku: https://drive.google.com/file/d/11ZQa8aXN_uJPoY5dtePjn2CwU4ldNIug/view?usp=sharing
-
+## Vjezba 4
+Video rezultata vjezbe 4 na linku: https://drive.google.com/file/d/1jTn0gE9EQOVRezTmwM_NovokgSjlYw88/view?usp=sharing
