@@ -10,3 +10,5 @@ Video rezultata vjezbe 3 na linku: https://drive.google.com/file/d/11ZQa8aXN_uJP
 Video rezultata vjezbe 4 na linku: https://drive.google.com/file/d/1jTn0gE9EQOVRezTmwM_NovokgSjlYw88/view?usp=sharing
 ## Vjezba 5
 Video rezultata vjezbe 5 na linku: https://drive.google.com/file/d/1f5ddyIlE3ikyfIByKcLncutjJF1zweMm/view?usp=sharing
+## Vjezba 6
+Video rezultata vjezbe 6 na linku: https://drive.google.com/file/d/1z9OQANWQWKTCekMmrKTG1uPG6cWY7pvG/view?usp=sharing
