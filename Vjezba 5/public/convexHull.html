@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convex Hull</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+            cursor: crosshair;
+        }
+        .button-container {
+            display: block;
+            margin-bottom: 10px; /* Optional: Add some space between buttons */
+        }
+    </style>
+</head>
+<body>
+<canvas id="myCanvas" width="600" height="400"></canvas><br>
+<div class="button-container">
+    <button onclick="clearCanvas()">Clear</button> <!-- Dodato dugme za brisanje -->
+</div>
+<div class="button-container">
+    <button onclick="generateConvexHull('triangle')">Generate Convex Hull - Triangle</button>
+</div>
+<div class="button-container">
+    <button onclick="generateConvexHull('line')">Generate Convex Hull - Line</button>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
