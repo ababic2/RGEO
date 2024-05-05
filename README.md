@@ -12,3 +12,5 @@ Video rezultata vjezbe 4 na linku: https://drive.google.com/file/d/1jTn0gE9EQOVR
 Video rezultata vjezbe 5 na linku: https://drive.google.com/file/d/1f5ddyIlE3ikyfIByKcLncutjJF1zweMm/view?usp=sharing
 ## Vjezba 6
 Video rezultata vjezbe 6 na linku: https://drive.google.com/file/d/1z9OQANWQWKTCekMmrKTG1uPG6cWY7pvG/view?usp=sharing
+##Zadaca 1
+Video rezultata zadace 1 na linku: https://drive.google.com/file/d/1feCAIJo1VktJohGC6L5pe65ptbSIEeYl/view?usp=sharing
