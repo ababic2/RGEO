@@ -159,10 +159,11 @@ function generateTree() {
         drawPoint(element.x, element.y, "red");
     }
 }
-tacke = [new Point(2,3),new Point(1,3),new Point(42,3),new Point(2,23),new Point(2,1),
-    new Point(22,13),new Point(32,223)]
-t = Make2dTree(tacke)
-R = new Rectangle(1.5,23,1.5,24)
-console.log("KDAJDKLHAJKDHAK")
-console.log(RectangularSearch_2dTree(t,R))
+
+//test random
+// tacke = [new Point(2,4),new Point(1,4),new Point(41,3),new Point(2,22),new Point(3,1), new Point(22,20),new Point(50,100)]
+// t = Make2dTree(tacke)
+// R = new Rectangle(1.8,25,2,25)
+// console.log("Rezultat:")
+// console.log(RectangularSearch_2dTree(t,R))
 
